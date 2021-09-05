@@ -1,3 +1,8 @@
 # rawgoalg
 
-### Implementing and Documenting algotrithms in Go
+### Documenting and Implementing Algotrithms in Go
+- Categorized
+- Classified Usable Go Package
+- Highly Commentated
+
+
