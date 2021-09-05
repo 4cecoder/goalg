@@ -2,7 +2,7 @@
 
 ### Documenting and Implementing Algotrithms in Go
 - Categorized
-- Classified Usable Go Package
+- Classified Usable Go Packages
 - Highly Commentated
 
 
