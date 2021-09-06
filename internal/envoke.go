@@ -5,5 +5,5 @@ import (
 )
 
 func Envoke() {
-	fmt.Println("Algorithms in GoLang")
+	fmt.Println("Algorithms in GoLang!")
 }
