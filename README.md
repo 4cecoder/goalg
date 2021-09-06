@@ -1,4 +1,4 @@
-# rawgoalg
+# Raw Go Alg
 
 ### Documenting and Implementing Algotrithms in Go
 - Categorized
@@ -6,11 +6,14 @@
 - Highly Commentated
 
 
-
+### Catagory
 
 Sorting
+
 Searching
+
 Cryptografic
+
 
 Sum
 - Kahan summation algorithm
