@@ -15,5 +15,5 @@ Searching
 Cryptografic
 
 
-[Sum]docs/summation.md
+[Sum] docs/summation.md
 
