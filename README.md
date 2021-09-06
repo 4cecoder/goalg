@@ -15,10 +15,5 @@ Searching
 Cryptografic
 
 
-Sum
-- Kahan summation algorithm
-- naive summation
-- prefix sum, cumulative sum, inclusive scan
-- 
-
+[Sum]docs/summation.md
 
