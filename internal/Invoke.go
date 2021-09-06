@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func Envoke() {
+func Invoke() {
 	fmt.Println("Algorithms in GoLang!")
 }

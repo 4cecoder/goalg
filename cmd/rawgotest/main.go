@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	internal.Envoke()
+	internal.Invoke()
 }
