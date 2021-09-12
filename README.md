@@ -1,4 +1,4 @@
-# Raw Go Alg
+# Go Algs
 
 ### Documenting and Implementing Algotrithms in Go
 - Categorized
