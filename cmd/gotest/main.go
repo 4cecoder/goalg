@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/4cecoder/rawgoalg/internal"
+	"github.com/4cecoder/goalg/internal"
 )
 
 func main() {

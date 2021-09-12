@@ -21,11 +21,13 @@ func epsilon() float {
 	return ε
 }
 
-// func main() {
-//     a := float(1)
-//     b := epsilon()
-//     c := -b
-//     fmt.Println("Left associative:", a+b+c)
-//     fmt.Println("Kahan summation: ", kahan(a, b, c))
-//     fmt.Println("Epsilon:         ", b)
-// }
+/* 
+func main() {
+       a := float(1)
+       b := epsilon()
+       c := -b
+       fmt.Println("Left associative:", a+b+c)
+       fmt.Println("Kahan summation: ", kahan(a, b, c))
+       fmt.Println("Epsilon:         ", b)
+ }
+ */
