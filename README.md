@@ -18,8 +18,14 @@ Cryptografic
 
 
 Recursive
+
 Divide and Conquer
+
 Dynamic Programming
+
 Greedy
+
 Brute Force
+
 Backtracking
+
