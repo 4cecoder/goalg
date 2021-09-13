@@ -13,8 +13,6 @@ Sorting
 Searching
   - uniformed
   - informed
- 
-Cryptografic
 
 
 Recursive
