@@ -8,11 +8,9 @@
 
 ### Catagory
 
-Sorting
+[Sorting](docs/sort.md)
 
-Searching
-  - uniformed
-  - informed
+[Searching](docs/search.md)
 
 
 Recursive
