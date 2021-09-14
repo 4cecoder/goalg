@@ -12,6 +12,8 @@
 
 [Searching](docs/search.md)
 
+[Sum](docs/summation.md)
+
 
 Recursive
 
